@@ -1,0 +1,14 @@
+﻿a {
+    color: #306930;
+    font-weight: bold;
+}
+body {
+    color: #303030;
+    background-color: #96cad9;
+}
+[href="PYTHON_projects.html"] {
+    color: #f76330;
+}
+[href="index.html"] {
+    color: #f76330;
+}
