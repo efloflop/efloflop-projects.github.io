@@ -4,6 +4,7 @@ a {
     font-weight: bold;
     background-color: #e80000;
     padding: 5px 10px;
+    border-radius: 20px;
 }
 body {
     color: #fcf466;
