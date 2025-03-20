@@ -10,11 +10,7 @@ body {
     color: #fcf466;
     background-color: #242424;
 }
-[href="PYTHON_projects.html"] {
-    color: #fff6f7;
-    background-color: #d0bb74;
-}
-[href="index.html"] {
+class="webpage"{
     color: #fff6f7;
     background-color: #d0bb74;
 }
